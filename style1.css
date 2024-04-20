@@ -1,0 +1,31 @@
+*{
+    background-color: black;
+    color: white;
+}
+h1,h2{
+    color: palevioletred;
+    font-style:italic;
+}
+h5{
+    color:slateblue;
+}
+::placeholder{
+    color: lightpink;
+}
+input:active{
+    border-color: deeppink;
+}
+#specifyColor{
+    accent-color: deeppink;
+}
+
+
+
+
+#resetSubmit{
+    background-color: lightpink;
+    color: deeppink;
+}
+a{
+    color:hotpink;
+}

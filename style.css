@@ -1,0 +1,23 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+h1,h2{
+    color: palevioletred;
+    font-style:italic;
+}
+h5{
+    color:slateblue;
+}
+table{
+    background-color: lightpink;   
+}
+td:hover{
+    cursor: pointer;
+    color:deeppink;
+    background-color: lightpink;
+}
+a{
+    color:hotpink;
+}
